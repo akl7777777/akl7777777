@@ -1,4 +1,7 @@
 ### Hi there 👋
+<a href="https://github.com/akl7777777">
+  <img align="right" src="https://github-readme-stats-mu-azure.vercel.app/api?username=akl7777777&show_icons=true&theme=default" />
+</a>
 
 Many bob translation plugins (key-free, login-free)
 
