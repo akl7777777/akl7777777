@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Many bob translation plugins (key-free, login-free)
+
+好多bob翻译插件(免秘钥,免登录)
+
 <!--
 **akl7777777/akl7777777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
