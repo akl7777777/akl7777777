@@ -11,8 +11,9 @@ Recently developing [ChatGPT client without secret key and login](https://github
 
 最近在开发[ChatGPT免秘钥免登录客户端](https://github.com/akl7777777/free-chatgpt-client-pub)
 
-
 您可以通过我的[爱发电主页](https://afdian.net/a/akl7777777)进行月度/一次性赞助，支持微信，支付宝。
+
+You can make monthly/one-time donations through my [afdian](https://afdian.net/a/akl7777777) homepage, supporting WeChat and Alipay.
 
 <!--
 **akl7777777/akl7777777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
