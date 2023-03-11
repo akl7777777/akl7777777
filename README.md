@@ -7,6 +7,8 @@ Many bob translation plugins (key-free, login-free)
 
 好多bob翻译插件(免秘钥,免登录)
 
+您可以通过我的[爱发电主页](https://afdian.net/a/akl7777777)进行月度/一次性赞助，支持微信，支付宝。
+
 <!--
 **akl7777777/akl7777777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
