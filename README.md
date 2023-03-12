@@ -7,9 +7,9 @@ Many [bob translation plugins (key-free, login-free)](https://github.com/akl7777
 
 好多[bob翻译插件(免秘钥,免登录)](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)
 
-Recently developing [ChatGPT client without secret key and login](https://github.com/akl7777777/free-chatgpt-client-pub)
+**Recently developing [ChatGPT client without secret key and login](https://github.com/akl7777777/free-chatgpt-client-pub)**
 
-最近在开发[ChatGPT免秘钥免登录客户端](https://github.com/akl7777777/free-chatgpt-client-pub)
+**最近在开发[ChatGPT免秘钥免登录客户端](https://github.com/akl7777777/free-chatgpt-client-pub)**
 
 您可以通过我的[爱发电主页](https://afdian.net/a/akl7777777)进行月度/一次性赞助，支持微信，支付宝。
 
