@@ -3,9 +3,9 @@
   <img align="right" src="https://github-readme-stats-mu-azure.vercel.app/api?username=akl7777777&show_icons=true&theme=default" />
 </a>
 
-Many [bob translation plugins (key-free, login-free)](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)
+**Many [bob translation plugins (key-free, login-free)](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)**
 
-好多[bob翻译插件(免秘钥,免登录)](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)
+**好多[bob翻译插件(免秘钥,免登录)](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)**
 
 **Recently developing [ChatGPT client without secret key and login](https://github.com/akl7777777/free-chatgpt-client-pub)**
 
