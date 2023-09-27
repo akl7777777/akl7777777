@@ -1,6 +1,7 @@
 ### Hi there 👋
 <a href="https://github.com/akl7777777">
   <img align="right" src="https://github-readme-stats-mu-azure.vercel.app/api?username=akl7777777&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akl7777777&layout=compact&hide_border=true&langs_count=10" alt="akl7777777's Top Langs" width="37%" /> 
 </a>
 
 **Many [bob translation plugins (key-free, login-free)](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)**
