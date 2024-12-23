@@ -14,7 +14,7 @@
 
 **最近在开发[ChatGPT免秘钥免登录客户端](https://github.com/akl7777777/ShellGPT)**
 
-您可以通过我的[爱发电主页](https://afdian.net/a/akl7777777)进行月度/一次性赞助，支持微信，支付宝。
+您可以通过我的[爱发电主页](https://afdian.com/a/akl7777777)进行月度/一次性赞助，支持微信，支付宝。
 
 You can make monthly/one-time donations through my [afdian](https://afdian.net/a/akl7777777) homepage, supporting WeChat and Alipay.
 
