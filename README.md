@@ -4,6 +4,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akl7777777&layout=compact&hide_border=true&langs_count=10" alt="akl7777777's Top Langs" width="37%" /> 
 </a>
 
+**[ShellAPI青春版后台部署教程](https://www.bilibili.com/video/BV14m421u7EL/?share_source=copy_web&vd_source=432f61ba95857b0719a349602ad5a705)**
+
 **Many [bob translation plugins (key-free, login-free)](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)**
 
 **好多[bob翻译插件(免秘钥,免登录)](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)**
